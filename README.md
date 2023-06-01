@@ -1,5 +1,4 @@
-Hello! 👋<br>I am currently a student 🎓 at Prime Digital Academy, diving into the exciting world of Javascript and what we can do with it!<br><br>When I'm not coding- you'll usually find me creating other odds and ends.<br>Everything from building a sauna to sewing 🪡 Pokemon  characters all over my child's clothing!<br><br>I love the outdoors and enjoy every season Minnesota has to offer. <br>🌳 🍁 ❄️
-
+Hello! 👋<br>I am a recent graduate 🎓 from Prime Digital Academy, diving into the exciting world of Javascript and what we can do with it!<br><br>When I'm not coding- you'll usually find me creating other odds and ends.<br>Everything from building a sauna to 🪡 sewing Pokemon  characters all over my child's clothing!<br><br>I love the outdoors and enjoy every season Minnesota has to offer. <br>🌳 🍁 ❄️ 🌞
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samantha-c-marlowe/) 
